@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C3C648524C4D53300ED3C85 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 5C3C648424C4D53300ED3C85 /* .gitignore */; };
 		5C813069249FEFFC00B308AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C813068249FEFFC00B308AC /* AppDelegate.swift */; };
 		5C81306B249FEFFC00B308AC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C81306A249FEFFC00B308AC /* SceneDelegate.swift */; };
 		5C81306D249FEFFC00B308AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C81306C249FEFFC00B308AC /* ViewController.swift */; };
@@ -49,6 +50,7 @@
 		19202970853069FB6EB364BB /* Pods-2.3.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-2.3.debug.xcconfig"; path = "Target Support Files/Pods-2.3/Pods-2.3.debug.xcconfig"; sourceTree = "<group>"; };
 		2729A9FE91C4FD2D9A00C491 /* Pods-2.3Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-2.3Tests.debug.xcconfig"; path = "Target Support Files/Pods-2.3Tests/Pods-2.3Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		2846AAA26E6A26BDBB864096 /* Pods-2.3-2.3UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-2.3-2.3UITests.debug.xcconfig"; path = "Target Support Files/Pods-2.3-2.3UITests/Pods-2.3-2.3UITests.debug.xcconfig"; sourceTree = "<group>"; };
+		5C3C648424C4D53300ED3C85 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		5C813065249FEFFC00B308AC /* 2.3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 2.3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C813068249FEFFC00B308AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5C81306A249FEFFC00B308AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 		5C813067249FEFFC00B308AC /* 2.3 */ = {
 			isa = PBXGroup;
 			children = (
+				5C3C648424C4D53300ED3C85 /* .gitignore */,
 				5C813068249FEFFC00B308AC /* AppDelegate.swift */,
 				5C81306A249FEFFC00B308AC /* SceneDelegate.swift */,
 				5C81306C249FEFFC00B308AC /* ViewController.swift */,
@@ -296,6 +299,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C3C648524C4D53300ED3C85 /* .gitignore in Resources */,
 				5C813078249FF00000B308AC /* LaunchScreen.storyboard in Resources */,
 				5C813075249FF00000B308AC /* Assets.xcassets in Resources */,
 				5C813070249FEFFC00B308AC /* Main.storyboard in Resources */,
