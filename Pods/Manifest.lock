@@ -1,0 +1,48 @@
+PODS:
+  - Bond (7.6.6):
+    - Differ (~> 1.4)
+    - ReactiveKit (~> 3.14)
+  - Differ (1.4.5)
+  - ReactiveKit (3.17.1)
+  - RxBlocking (5.1.1):
+    - RxSwift (~> 5)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - RxTest (5.1.1):
+    - RxSwift (~> 5)
+
+DEPENDENCIES:
+  - Bond
+  - RxBlocking (~> 5)
+  - RxCocoa (~> 5)
+  - RxSwift (~> 5)
+  - RxTest (~> 5)
+
+SPEC REPOS:
+  trunk:
+    - Bond
+    - Differ
+    - ReactiveKit
+    - RxBlocking
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxTest
+
+SPEC CHECKSUMS:
+  Bond: 9e7d901cf4ed825b6004a93dd0a7f1c7479e2834
+  Differ: 3b6bd78e2b20cc795d9a86f7641d087524e4273e
+  ReactiveKit: f578a74d3555296ea61fab228f5245a4ed7b4b27
+  RxBlocking: 5f700a78cad61ce253ebd37c9a39b5ccc76477b4
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  RxTest: 711632d5644dffbeb62c936a521b5b008a1e1faa
+
+PODFILE CHECKSUM: 4720b8e002b9014d6207587b359c61a623de35ad
+
+COCOAPODS: 1.9.1
