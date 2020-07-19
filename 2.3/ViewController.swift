@@ -27,6 +27,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         allValid()
         testValid()
+        print("test")
     }
     
     func allValid (){
